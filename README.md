@@ -7,7 +7,7 @@
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+🙋🏻‍♀️+I'm+Sebine+Isgenderova;Full+Stack+Developer;Welcome+to+my+GitHub" 
-style="margin-top:-170px;" />
+style="margin-top:-200px;" />
 
 </td>
 </tr>
