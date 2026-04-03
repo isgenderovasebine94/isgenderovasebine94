@@ -1,11 +1,4 @@
-<h1 align="center">
-  <img src="https://camo.githubusercontent.com/your-gradient-svg-link/raw/gradient-text.svg" alt="Hi, I'm Sebine Isgenderova" width="600"/>
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Developer Background" width="500"/>
-</p>
-
+<h1 align="center">Hi 👋, I'm Sebine Isgenderova</h1>
 
 <h3 align="center">Full Stack Developer | HTML, CSS, JavaScript  | Node.js | .NET |  SQL</h3>
 
