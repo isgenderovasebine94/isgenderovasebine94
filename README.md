@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebine Isgenderova</h1>
 
 <p align="center">
-<img src="https://github.com/isgenderovasebine94/isgenderovasebine94/issues/1#issue-4200146175" alt="Sebine Isgenderova" width="150" height="150">
+<img src="![Image](https://github.com/user-attachments/assets/46a16092-78b7-4b24-97fa-9544dab6c016)" alt="Sebine Isgenderova" width="150" height="150">
 </p>
 
 <h3 align="center">Full Stack Developer | HTML, CSS, JavaScript  | Node.js | .NET |  SQL</h3>
