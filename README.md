@@ -26,7 +26,7 @@
 
 ### 🧠 Full Stack Development
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,html,css,js,bootstrap" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,html,css,js,react,typescript,bootstrap,c#" />
 </p>
 
 ### 🗄️ Databases & Data Management
