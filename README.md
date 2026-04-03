@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sebine Isgenderova</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hello%20I'm%20Sebine&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Hi+🙋🏻‍♀️+I'm+Sebine+Isgenderova;Full+Stack+Developer;Welcome+to+my+GitHub" />
+</p>
 
-<h3 align="center">Full Stack Developer | HTML, CSS, JavaScript  | Node.js | .NET |  SQL</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
 🚀 Passionate about building scalable backend systems & REST APIs
