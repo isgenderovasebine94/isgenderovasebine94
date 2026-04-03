@@ -15,7 +15,7 @@
 - ⚙️ Experienced with both backend and frontend technologies  
 - 🔧 Skilled in building RESTful APIs and database-driven applications  
 - 🗄️ Worked with MSSQL, MySQL, PostgreSQL, and MongoDB  
-- 🌐 Familiar with HTML, CSS, JavaScript, React, TypeScript, Node.js, Express.js, and C#  
+- 🌐 Familiar with HTML, CSS, JavaScript, Node.js, Express.js, and C#  
 - 🚀 Highly motivated to start a professional career in software development  
 - 🎯 Focused on writing clean, maintainable, and scalable code
 - 🌱 Currently improving my backend development skills and building real-world projects    
@@ -26,7 +26,7 @@
 
 ### 🧠 Full Stack Development
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,html,css,js,react,typescript,bootstrap,c#" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,html,css,js,react,typescript,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Data Management
