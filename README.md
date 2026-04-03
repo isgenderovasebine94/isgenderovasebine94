@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img src="banner.gif" />
+</p>
+
+<p align="center">
 🚀 Passionate about building scalable backend systems & REST APIs
 </p>
 
