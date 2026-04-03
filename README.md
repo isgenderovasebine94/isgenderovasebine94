@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hello%20I'm%20Sebine%20Isgenderova%20🚀%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hello%20I'm%20Sebine|Full%20Stack%20Developer|Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=wave" />
 </p>
-<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
 🚀 Passionate about building scalable backend systems & REST APIs
