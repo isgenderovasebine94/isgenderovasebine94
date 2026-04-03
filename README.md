@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typewriter&text1=Hi%20I'm%20Sebine%20%C4%B0sg%C9%99nd%C9%99rova&text2=Full%20Stack%20Developer&text3=Welcome%20to%20my%20GitHub&width=800&height=200&bg=0f2027,2c5364,00c9ff&fontColor=ffffff" />
+  <img src="https://svg-banners.vercel.app/api?type=typewriter&text1=Hi%20I'm%20Sebine%20%C4%B0sg%C9%99nd%C9%99rova&text2=Full%20Stack%20Developer&text3=Welcome%20to%20my%20GitHub&width=900&height=250&bg=0:0f2027,50:2c5364,100:00c9ff&fontColor=ffffff&fontSize=40" />
 </p>
 
 <p align="center">
