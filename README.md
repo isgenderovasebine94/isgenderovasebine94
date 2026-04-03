@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="./banner.gif" />
+<img src="images/WhatsApp Image 2026-04-03 at 15.13.47.jpeg" alt="Layihe sekli" width="500" height="300" >
 </p>
 
 <p align="center">
