@@ -6,11 +6,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+🙋🏻‍♀️+I'm+Sebine+Isgenderova;Full+Stack+Developer;Welcome+to+my+GitHub" style="margin-top:-140px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+🙋🏻‍♀️+I'm+Sebine+Isgenderova;Full+Stack+Developer;Welcome+to+my+GitHub" 
+style="margin-top:-170px;" />
 
 </td>
 </tr>
 </table>
+
+
 
 <h3 align="center">🚀 Full Stack Developer</h3>
 
