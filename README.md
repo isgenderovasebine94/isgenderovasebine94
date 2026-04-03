@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/123abc456def789.../raw/gradient-text.svg" alt="Hi, I'm Sebine Isgenderova">
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="500"/>
 </p>
 
 <h3 align="center">Full Stack Developer | HTML, CSS, JavaScript  | Node.js | .NET |  SQL</h3>
