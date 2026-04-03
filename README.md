@@ -1,19 +1,6 @@
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+🙋🏻‍♀️+I'm+Sebine+Isgenderova;Full+Stack+Developer;Welcome+to+my+GitHub" 
-style="margin-top:-200px;" />
-
-</td>
-</tr>
-</table>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20🙋🏻‍♀️%20I'm%20Sebine%20Isgenderova%20|%20Full%20Stack%20Developer&fontSize=28&fontColor=00C9FF&animation=fadeIn" />
+</p>
 
 <h3 align="center">🚀 Full Stack Developer</h3>
 
