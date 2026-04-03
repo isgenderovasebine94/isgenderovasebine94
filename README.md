@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typewriter&text1=Hi%20I'm%20Sebine%20%C4%B0sg%C9%99nd%C9%99rova&text2=Full%20Stack%20Developer&text3=Welcome%20to%20my%20GitHub&width=900&height=250&bg=0:0f2027,50:2c5364,100:00c9ff&fontColor=ffffff&fontSize=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&height=200&lines=Hi+%F0%9F%99%8B+i'm+Sebine+Isgenderova;Full+Stack+Developer+%F0%9F%92%BB;Welcome+to+my+Github." />
 </p>
 
 <p align="center">
