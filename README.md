@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20🙋🏻‍♀️%20I'm%20Sebine%20Isgenderova%20|%20Full%20Stack%20Developer&fontSize=28&fontColor=00C9FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20%20I'm%20Sebine%20Isgenderova%20|%20Full%20Stack%20Developer&fontSize=28&fontColor=00C9FF&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer</h3>
