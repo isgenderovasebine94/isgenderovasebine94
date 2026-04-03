@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&height=200&background=2C5364&lines=Hi+I'm+Sebine+Isgenderova;Full+Stack+Developer;Welcome+to+my+GitHub" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hello%20I'm%20Sebine%20Isgenderova%20🚀%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=wave" />
 </p>
 <h3 align="center">🚀 Full Stack Developer</h3>
 
