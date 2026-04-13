@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Sebine+İsgenderova;Full+Stack+Developer;Welcome+to+my+GitHub&color=00C9FF&background=0f2027,2c5364,00c9ff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Sebine+İsgenderova;Full+Stack+Development;Welcome+to+my+GitHub&color=00C9FF&background=0f2027,2c5364,00c9ff" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 - 🎓 Bachelor's degree in Geophysics Engineering from Baku State University (2013–2017)  
-- 💻 Full Stack Developer trained at Vision Academy (2025–2026)  
+- 💻 Full Stack Development trained at Vision Academy (2025–2026)  
 - ⚙️ Experienced with both backend and frontend technologies  
 - 🔧 Skilled in building RESTful APIs and database-driven applications  
 - 🗄️ Worked with MSSQL, MySQL, PostgreSQL, and MongoDB  
